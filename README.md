@@ -1,4 +1,4 @@
-# 📘 밑바닥부터 시작하는 딥러닝 1 (Deep Learning from Scratch) 학습 기록
+# 📘 밑바닥부터 시작하는 딥러닝 (Deep Learning from Scratch) 학습 기록
 > **학습 기간:** 2026.02 ~ 2026.03
 > **작성자:** 강동석 (전자공학 전공)
 
